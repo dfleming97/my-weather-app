@@ -4,7 +4,7 @@ import axios from 'axios';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faFrown } from '@fortawesome/free-solid-svg-icons';
 import './App.css';
-import { error } from 'ajv/dist/vocabularies/applicator/dependencies';
+
 
 
 function App() {
